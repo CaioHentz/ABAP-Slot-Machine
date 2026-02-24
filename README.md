@@ -1,4 +1,4 @@
-#ABAP Slot Machine
+## ABAP Slot Machine
 
 Simple slot machine program to run in S/4 enviroment.
 
